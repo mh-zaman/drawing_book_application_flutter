@@ -1,0 +1,28 @@
+{
+  "@@locale": "en",
+  "appTitle": "Enhancing Artistic Expression through Machine Learning",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "language": "English",
+  "@language": {
+    "description": "The current language of the application"
+  },
+  "cancel": "Cancel",
+  "drawHere": "Enhancing Artistic Expression through Machine Learning",
+  "tools": "Tools",
+  "colors": "Colors",
+  "size": "Size",
+  "strokeSize": "Stroke Size: ",
+  "eraser": "Eraser",
+  "clear": "Clear",
+  "pencil": "Pencil",
+  "eraserSize": "Eraser Size: ",
+  "showOnGithub": "Show on Github",
+  "check": "Check",
+  "actions": "Actions",
+  "next": "Next",
+  "score": "Score: ",
+  "reset": "Reset",
+  "developingMessage": "We are currently in the developing phase. Currently the app can only recognize and categorize the sketch into 10 objects (Apple, Banana, Candle, Donut, Envelop, Flower, Ice Cream, Leaf, Mug and Umbrella)"
+}
